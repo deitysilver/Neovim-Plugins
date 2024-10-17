@@ -1,0 +1,4 @@
+{
+  "cyberdream.nvim": { "branch": "main", "commit": "a4023119076876fcfc92ca48268c8a99647d6b0d" },
+  "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" }
+}
